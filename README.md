@@ -19,9 +19,9 @@ A Agenda de Contatos é bem simples, uma agenda de contatos que possibilita o us
 ### Buscador de Gifs
 
 O Buscador de Gifs possibilita a busca de gifs, visualização dos melhores gifs e o melhor de tudo, você pode compartilhar os mesmos com qualquer pessoa. O Buscador de Gifs utiliza a API do GIPHY.
-:computer: [Saiba mais sobre a API do GIPHY](https://user-images.githubusercontent.com/45312912/87118091-d8482380-c250-11ea-9521-cc30ebdca388.png)
+:computer: [Saiba mais sobre a API do GIPHY](https://developers.giphy.com/)
 
-![Buscador de Gifs](images/buscador_gifs.png)
+![Buscador de Gifs](https://user-images.githubusercontent.com/45312912/87118091-d8482380-c250-11ea-9521-cc30ebdca388.png)
 
 ### Calculadora IMC
 
