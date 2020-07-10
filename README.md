@@ -1,14 +1,14 @@
-# Flutter Mobile
-Aplicativos utilizando o framework Flutter do Google para o desenvolvimento de aplicativos mobile nativos multiplataforma (IOS e Android).
-
 <h1 align="center">
-    <img alt="Ecoleta" title="Ecoleta" src="https://venturebeat.com/wp-content/uploads/2018/02/google-flutter-logo.png?fit=400%2C200&strip=all" width="220px" />
+Flutter Mobile
 </h1>
 
+Aplicativos utilizando o framework Flutter do Google para o desenvolvimento de aplicativos mobile nativos multiplataforma (IOS e Android).
+
 <p align="center">
-<h2>Aplicativos desenvolvidos</h2>
+    <img alt="Flutter" title="Flutter" src="https://venturebeat.com/wp-content/uploads/2018/02/google-flutter-logo.png?fit=400%2C200&strip=all" width="220px" />
 </p>
 
+<h2 align="center">Aplicativos desenvolvidos</h2>
 
 ### Agenda de Contatos
 
