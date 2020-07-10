@@ -6,7 +6,7 @@ Aplicativos utilizando o framework Flutter do Google para o desenvolvimento de a
 </h1>
 
 <p align="center">
-## Aplicativos desenvolvidos
+<h2>Aplicativos desenvolvidos</h2>
 </p>
 
 
