@@ -5,8 +5,10 @@ Aplicativos utilizando o framework Flutter do Google para o desenvolvimento de a
     <img alt="Ecoleta" title="Ecoleta" src="https://venturebeat.com/wp-content/uploads/2018/02/google-flutter-logo.png?fit=400%2C200&strip=all" width="220px" />
 </h1>
 
-
+<p align="center">
 ## Aplicativos desenvolvidos
+</p>
+
 
 ### Agenda de Contatos
 
