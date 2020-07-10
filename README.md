@@ -18,7 +18,7 @@ A Agenda de Contatos é bem simples, uma agenda de contatos que possibilita o us
 
 ### Buscador de Gifs
 
-O Buscador de Gifs possibilita a busca de gifs, visualização dos melhores gifs e o melhor de tudo, você pode compartilhar os mesmos com qualquer pessoa. O Buscador de Gifs utiliza a API do GIPHY.
+O Buscador de Gifs possibilita a busca de gifs, visualização dos melhores gifs e o melhor de tudo, você pode compartilhar os mesmos com qualquer pessoa. O Buscador de Gifs utiliza a API do GIPHY. <br>
 :computer: [Saiba mais sobre a API do GIPHY](https://developers.giphy.com/)
 
 ![Buscador de Gifs](https://user-images.githubusercontent.com/45312912/87119791-5b6b7880-c255-11ea-91ed-11797ea14550.png)
@@ -27,7 +27,7 @@ O Buscador de Gifs possibilita a busca de gifs, visualização dos melhores gifs
 
 Como qualquer bom e velho aplicativo de cálculo IMC, o mesmo irá calcular o IMC e retornará uma mensagem com o resultado informando se está acima do peso ou não.
 
-![Calculadora_imc](https://user-images.githubusercontent.com/45312912/87118826-c2d3f900-c252-11ea-9e05-290d1a06972d.png)
+![Calculadora_imc](https://user-images.githubusercontent.com/45312912/87120387-a639c000-c256-11ea-9f5e-5620993c386c.png)
 
 ### Chat Online
 
