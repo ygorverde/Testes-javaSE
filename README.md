@@ -34,7 +34,7 @@ Como qualquer bom e velho aplicativo de cálculo IMC, o mesmo irá calcular o IM
 O Chat Online possibilita o envio imagens e mensagens com diversas pessoas simultaneamente, é necessário que o usuário esteja logado com uma conta Google para ter acesso a todos os recursos do aplicativo. O mesmo utiliza o Firebase, uma plataforma da Google, que nos proporciona: autenticar o usuário, base de dados em tempo real e uma interação dinâmica dos usuários.
 :fire: [Saiba mais sobre o Firebase](https://rockcontent.com/blog/firebase/)
 
-![Chat Online](images/chat_online.png)
+![Chat Online](https://user-images.githubusercontent.com/45312912/87120528-0466a300-c257-11ea-861b-8f6c7c3eb3b3.png)
 
 ### Conversor de Moedas
 
