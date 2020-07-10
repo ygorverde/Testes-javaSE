@@ -58,3 +58,20 @@ O Organizador de Tarefas é bem simples, básico e intuitivo.
 Ele ajuda a organizar suas tarefas, possibilita adicionar ou remover tarefas e alterar o status das tarefas.
 
 ![Organizador de Tarefas](images/organizador_tarefas.png)
+
+## Como utilizar os aplicativos
+
+Para clonar e rodar os aplicativos, você vai precisar do Git e do Flutter instalados no seu computador.
+```
+# Clone esse repositório
+$ git clone https://github.com/ygorverde/flutter-mobile.git
+
+# Vá para o repositório do app
+$ cd aplicativo_desejado
+
+# Instale as dependências
+$ flutter packages get
+
+# Rode o app
+$ flutter run
+```
