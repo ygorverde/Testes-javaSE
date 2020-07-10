@@ -1,52 +1,45 @@
-# Flutter
-Repositório com os projetos utilizando o framework flutter que foi criado pelo Google para o desenvolvimento de aplicativos mobile nativos multiplataforma (IOS e Android).
+# Flutter Mobile
+Aplicativos utilizando o framework Flutter do Google para o desenvolvimento de aplicativos mobile nativos multiplataforma (IOS e Android).
 
-Saiba mais sobre o flutter nesse artigo no [Medium](https://medium.com/liferay-engineering-brazil/conheça-o-flutter-a-aposta-da-google-para-a-criação-de-apps-nativos-multiplataforma-e59c610134d8).
-
-## Informações sobre os aplicativos
+## Aplicativos desenvolvidos
 
 ### Agenda de Contatos
 
-O Aplicativo consiste em uma agenda de contato que permite o usuário criar, editar, excluir, ligar(o aplicativo redireciona para realizar a ligação) e ordenar de forma diferente novos contatos. Além de permitir atribuir uma foto a cada usuário que pode ser da câmera ou galeria.
+A Agenda de Contatos é bem simples, uma agenda de contatos que possibilita o usuário criar, excluir, ligar e ordenar a lista de contatos. O aplicativo também traz a possibilidade de adicionar foto ao contato desejado.
 
 ![Agenda de Contatos](images/agenda_contatos.png)
 
 ### Buscador de Gifs
 
-O Buscador de Gifs é um aplicativo que faz uso da API do GIPHI para buscar os gifs. O usuário pode buscar gifs, ver os mais populares e compartilhar os mesmo em plataformas como o Whats App.
+O Buscador de Gifs possibilita a busca de gifs, visualização dos melhores gifs e o melhor de tudo, você pode compartilhar os mesmos com qualquer pessoa. O Buscador de Gifs utiliza a API do GIPHY
+:computer: [Saiba mais sobre a API do GIPHY](https://developers.giphy.com/)
 
 ![Buscador de Gifs](images/buscador_gifs.png)
 
 ### Calculadora IMC
 
-Esse aplicativo é bem básico e simples. A partir do peso e altura inseridas pelo usuário ele diz como esta o IMC do mesmo.
+Como qualquer bom e velho aplicativo de cálculo IMC, o mesmo irá calcular o IMC e retornará uma mensagem com o resultado informando se está acima do peso ou não.
 
 ![Calculadora IMC](images/calculadora_imc.png)
 
 ### Chat Online
 
-Esse aplicativo é um chat online e o Firebase que é uma plataforma da google que auxilia no desenvolvimento de aplicações mobile e web. Esse aplicativo consiste em um chat de mensagens com várias pessoas, onde todas que possuirem o aplicativo podem visualizar o mesmo, mas para enviar a mensangem precisa esta logado em uma conta do google.
+O Chat Online possibilita o envio imagens e mensagens com diversas pessoas simultaneamente, é necessário que o usuário esteja logado com uma conta Google para ter acesso a todos os recursos do aplicativo. O mesmo utiliza o Firebase, uma plataforma da Google, que nos proporciona: autenticar o usuário, base de dados em tempo real e uma interação dinâmica dos usuários.
+:fire: [Saiba mais sobre o Firebase](https://rockcontent.com/blog/firebase/)
 
 ![Chat Online](images/chat_online.png)
 
-### Contador de Pessoas
-
-O primeiro aplicativo desenvolvido ao longo de curso que tinha como objetivo fazer um simples contador de pessoas em um restaurante. A cada pessoa que entrava o responsável apertaria o botão e o numero de pessoas seria incrementado.
-
-O aplicativo consiste em básicamente apenas um botão, por isso não colocarei uma foto.
-
-
 ### Conversor de Moedas
 
-Tal aplicativo utiliza uma API que fornece os valores da moeda em tempo real e faz a conversão automática. Um exemplo do seu funcionamento é você colocar o valor em reais e ele retorna para você em euro e libras. 
+O Conversor de Moedas faz o uso da API HG Finance, que fornece a cotação das moedas atualizadas. Com os dados atualizados, aplicativo faz a conversão dos valores desejados.
+:heavy_dollar_sign: [Saiba mais sobre a API HG Finance](https://hgbrasil.com/status/finance)
 
 ![Conversor de Moedas](images/conversor_moedas.png)
 
 ### Loja Virtual
 
-Tal aplicativo utilizar o Firebase e as ferramentas fornecidas por ele. A Loja Virtual é bem completa e complexa e possui todas as funcionalidades de um real aplicativo de loja virtual. Desde o cadastro do cliente, até a adição dos produtos no carrinho com tamanho, quantidades... Além disso o aplicativo mostra o status do pedido, se ele está em preparação, transporte ou entrega.
-
-Esse aplicativo precisa de pouquissimas modificações para ser disponibilizado a alguma loja virtual.
+A Loja Virtual é um aplicativo bem prático e intuitivo. O mesmo utiliza o Firebase, algo que nos possibilita mais facilidade no gerenciamento e análise dos dados.
+O aplicativo é bem completo, possui diversas funcionalidades, além de ter um visual bem limpo e bonito. O usuário pode criar sua própria conta, procurar produtos, adicionar produtos ao carrinho (pode escolher tamanho, quantidade), finalizar pedido e acompanhar em tempo real o status do pedido. Além de tudo que foi citado, também é possível adicionar um cupom de desconto.
 
 ![Loja Virtual](images/loja_virtual.png)
 
@@ -54,8 +47,7 @@ Esse aplicativo precisa de pouquissimas modificações para ser disponibilizado 
 
 ### Organizador de Tarefas
 
-É um aplicativo simples, mas bastante útil. É tanto que ao longo do meu dia a dia eu mesmo o utilizo as vezes. 
-
-Esse aplicativo consiste em um organizador de tarefas e seu funcionamento se dá da seguinte maneira: Você pode adicionar e remover tarefas a sua lista de tarefas e alterar o status das tarefas existentes, dando "ok" nas tarefas feitas. Além disso o aplicativo separa as tarefas feitas das não feitas, facilitando a visualização de tarefas pendentes ao longo do dia.
+O Organizador de Tarefas é bem simples, básico e intuitivo.
+Ele ajuda a organizar suas tarefas, possibilita adicionar ou remover tarefas e alterar o status das tarefas.
 
 ![Organizador de Tarefas](images/organizador_tarefas.png)
