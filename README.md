@@ -27,7 +27,7 @@ O Buscador de Gifs possibilita a busca de gifs, visualização dos melhores gifs
 
 Como qualquer bom e velho aplicativo de cálculo IMC, o mesmo irá calcular o IMC e retornará uma mensagem com o resultado informando se está acima do peso ou não.
 
-![Calculadora IMC](images/calculadora_imc.png)
+![Calculadora IMC](https://user-images.githubusercontent.com/45312912/87118490-ed718200-c251-11ea-9a18-9feffd5b32c3.png)
 
 ### Chat Online
 
