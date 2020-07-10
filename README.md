@@ -41,7 +41,7 @@ O Chat Online possibilita o envio imagens e mensagens com diversas pessoas simul
 O Conversor de Moedas faz o uso da API HG Finance, que fornece a cotação das moedas atualizadas. Com os dados atualizados, aplicativo faz a conversão dos valores desejados.
 :heavy_dollar_sign: [Saiba mais sobre a API HG Finance](https://hgbrasil.com/status/finance)
 
-![Conversor de Moedas](images/conversor_moedas.png)
+![Conversor de Moedas](https://user-images.githubusercontent.com/45312912/87120848-d5046600-c257-11ea-8f28-309d7ebd2350.png)
 
 ### Loja Virtual
 
