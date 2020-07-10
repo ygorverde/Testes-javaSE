@@ -14,7 +14,7 @@ Aplicativos utilizando o framework Flutter do Google para o desenvolvimento de a
 
 A Agenda de Contatos é bem simples, uma agenda de contatos que possibilita o usuário criar, excluir, ligar e ordenar a lista de contatos. O aplicativo também traz a possibilidade de adicionar foto ao contato desejado.
 
-![Agenda de Contatos](https://user-images.githubusercontent.com/45312912/87118395-a4213280-c251-11ea-9bf0-164575bd1b7d.png)
+![Agenda de Contatos](https://user-images.githubusercontent.com/45312912/87119378-30ccf000-c254-11ea-9cd9-d3a281e099da.png)
 
 ### Buscador de Gifs
 
