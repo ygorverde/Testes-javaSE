@@ -48,9 +48,9 @@ O Conversor de Moedas faz o uso da API HG Finance, que fornece a cotação das m
 A Loja Virtual é um aplicativo bem prático e intuitivo. O mesmo utiliza o Firebase, algo que nos possibilita mais facilidade no gerenciamento e análise dos dados.
 O aplicativo é bem completo, possui diversas funcionalidades, além de ter um visual bem limpo e bonito. O usuário pode criar sua própria conta, procurar produtos, adicionar produtos ao carrinho (pode escolher tamanho, quantidade), finalizar pedido e acompanhar em tempo real o status do pedido. Além de tudo que foi citado, também é possível adicionar um cupom de desconto.
 
-![Loja Virtual](images/loja_virtual.png)
+![lojavirtual_finalpt1](https://user-images.githubusercontent.com/45312912/87121373-016cb200-c259-11ea-966c-9b6bd2bc446d.png)
 
-![Loja Virtual](images/loja_virtual2.png)
+![lojavirtual_finalpt2](https://user-images.githubusercontent.com/45312912/87121377-03367580-c259-11ea-9169-122a925ccd20.png)
 
 ### Organizador de Tarefas
 
