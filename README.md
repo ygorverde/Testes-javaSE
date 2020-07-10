@@ -59,7 +59,7 @@ Ele ajuda a organizar suas tarefas, possibilita adicionar ou remover tarefas e a
 
 ![Organizador de Tarefas](images/organizador_tarefas.png)
 
-## Como utilizar os aplicativos
+## Como ajudar e rodar os apps:
 
 Para clonar e rodar os aplicativos, você vai precisar do Git e do Flutter instalados no seu computador.
 ```
@@ -75,3 +75,6 @@ $ flutter packages get
 # Rode o app
 $ flutter run
 ```
+
+## Agradecimentos
+  - <a target="_blank" href="https://www.udemy.com/course/curso-completo-flutter-app-android-ios/">Daniel Ciolfi</a>
