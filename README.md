@@ -49,7 +49,6 @@ A Loja Virtual é um aplicativo bem prático e intuitivo. O mesmo utiliza o Fire
 O aplicativo é bem completo, possui diversas funcionalidades, além de ter um visual bem limpo e bonito. O usuário pode criar sua própria conta, procurar produtos, adicionar produtos ao carrinho (pode escolher tamanho, quantidade), finalizar pedido e acompanhar em tempo real o status do pedido. Além de tudo que foi citado, também é possível adicionar um cupom de desconto.
 
 ![lojavirtual_finalpt1](https://user-images.githubusercontent.com/45312912/87121373-016cb200-c259-11ea-966c-9b6bd2bc446d.png)
-
 ![lojavirtual_finalpt2](https://user-images.githubusercontent.com/45312912/87121377-03367580-c259-11ea-9169-122a925ccd20.png)
 
 ### Organizador de Tarefas
@@ -57,7 +56,7 @@ O aplicativo é bem completo, possui diversas funcionalidades, além de ter um v
 O Organizador de Tarefas é bem simples, básico e intuitivo.
 Ele ajuda a organizar suas tarefas, possibilita adicionar ou remover tarefas e alterar o status das tarefas.
 
-![Organizador de Tarefas](images/organizador_tarefas.png)
+![lista_tarefas_final](https://user-images.githubusercontent.com/45312912/87121759-e9496280-c259-11ea-8a67-4c20605e38d1.png)
 
 ## Como ajudar e rodar os apps:
 
